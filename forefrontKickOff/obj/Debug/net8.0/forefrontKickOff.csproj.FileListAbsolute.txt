@@ -1,0 +1,15 @@
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\bin\Debug\net8.0\forefrontKickOff.exe
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\bin\Debug\net8.0\forefrontKickOff.deps.json
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\bin\Debug\net8.0\forefrontKickOff.runtimeconfig.json
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\bin\Debug\net8.0\forefrontKickOff.dll
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\bin\Debug\net8.0\forefrontKickOff.pdb
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\obj\Debug\net8.0\forefrontKickOff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\obj\Debug\net8.0\forefrontKickOff.AssemblyInfoInputs.cache
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\obj\Debug\net8.0\forefrontKickOff.AssemblyInfo.cs
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\obj\Debug\net8.0\forefrontKickOff.csproj.CoreCompileInputs.cache
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\obj\Debug\net8.0\forefrontKickOff.sourcelink.json
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\obj\Debug\net8.0\forefrontKickOff.dll
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\obj\Debug\net8.0\refint\forefrontKickOff.dll
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\obj\Debug\net8.0\forefrontKickOff.pdb
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\obj\Debug\net8.0\forefrontKickOff.genruntimeconfig.cache
+C:\Users\nadi11\source\repos\forefrontKickOff\forefrontKickOff\obj\Debug\net8.0\ref\forefrontKickOff.dll

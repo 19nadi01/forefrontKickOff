@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("forefrontKickOff")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+158e00cf0291c430fc8e6dd63c3de613b1a9f6c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("forefrontKickOff")]
 [assembly: System.Reflection.AssemblyTitleAttribute("forefrontKickOff")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
